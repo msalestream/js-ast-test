@@ -1,0 +1,17 @@
+{
+  "name": "node-rules-browser-example",
+  "version": "0.0.1",
+  "description": "Test for Node Rules",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Oaxaca",
+  "license": "MIT",
+  "dependencies": {
+    "escodegen": "^1.8.0",
+    "esprima": "^2.7.2",
+    "estraverse": "^4.2.0",
+    "underscore": "^1.8.3"
+  }
+}
